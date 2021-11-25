@@ -9,6 +9,7 @@
 
 - 👨‍🎓  &nbsp; Engenharia de Produção pelo CEFET.
 - 📖 &nbsp; Estudando e praticando sobre Backend Java e Python
+- :computer: RecoderPro
 
 **💻 Estudando:**
  | Java🧡 ||Spring 💜| MySQL💜 | 
