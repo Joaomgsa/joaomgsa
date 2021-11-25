@@ -8,8 +8,8 @@
 ### Sou um estudante em Desenvolvimento Backend no Rio de Janeiro - RJ.
 
 - 👨‍🎓  &nbsp; Engenharia de Produção pelo CEFET.
-- 📖 &nbsp; Estudando e praticando sobre Backend Java e Python
-- :computer: RecoderPro
+- 📖 &nbsp; Estudando e praticando sobre Backend Java 
+- :computer: &nbsp; RecoderPro
 
 **💻 Estudando:**
  | Java🧡 ||Spring 💜| MySQL💜 | 
