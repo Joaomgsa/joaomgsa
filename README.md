@@ -1,5 +1,5 @@
 ## Olá! Sou o João Marcos👋
-#### Bem vindo ao meu mundo 🧑‍💻!
+#### Bem vindo!
 
  [![Linkedin Badge](https://img.shields.io/badge/-JoaoMarcos-6633cc?-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-marcos-gabriel-santos-2981aa25/)](https://www.linkedin.com/in/joao-marcos-gabriel-santos-2981aa25/) 
  [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/joaomgsa)](https://instagram.com/joaomgsa) 
