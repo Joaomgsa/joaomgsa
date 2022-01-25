@@ -5,7 +5,7 @@
  [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/joaomgsa)](https://instagram.com/joaomgsa) 
 [![Gmail Badge](https://img.shields.io/badge/-joaomgsa@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaomgsa@gmail.com)](mailto:joaomgsa@gmail.com)
 
-### Sou um estudante em Desenvolvimento Backend no Rio de Janeiro - RJ.
+### Sou um Desenvolvedor Web FullStack Jr. no Rio de Janeiro - RJ.
 
 - 👨‍🎓  &nbsp; Engenharia de Produção pelo CEFET.
 - 📖 &nbsp; Estudando e praticando sobre FullStack
