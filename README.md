@@ -8,7 +8,6 @@
 ### Sou um Desenvolvedor Web FullStack Jr. no Rio de Janeiro - RJ.
 
 - 👨‍🎓  &nbsp; Engenharia de Produção pelo CEFET.
-- 📖 &nbsp; Estudando e praticando sobre FullStack
 - :computer: &nbsp; RecoderPro
 
 **💻 Estudando:**
