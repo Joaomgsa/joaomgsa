@@ -1,4 +1,3 @@
-## Olá! Sou o João Marcos👋
 #### Bem vindo!
 
  [![Linkedin Badge](https://img.shields.io/badge/-JoaoMarcos-6633cc?-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-marcos-gabriel-santos-2981aa25/)](https://www.linkedin.com/in/joao-marcos-gabriel-santos-2981aa25/) 
