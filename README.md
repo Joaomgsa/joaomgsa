@@ -10,7 +10,7 @@
 - :computer: &nbsp; RecoderPro
 
 **💻 Estudando:**
- | Java🧡 ||Spring 💜| React💜 | 
+ | Java ||Spring | React | 
 
 
 ## O que eu tenho feito por aqui ...
