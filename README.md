@@ -9,7 +9,7 @@
 - 👨‍🎓  &nbsp; Engenharia de Produção pelo CEFET.
 - :computer: &nbsp; RecoderPro
 
-**💻 No Momento trabalhando com as tecnologias:**
+**💻 No Momento trabalhando com:**
  | Java ||Spring | React | 
 
 
