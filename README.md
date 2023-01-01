@@ -10,10 +10,10 @@
 - :computer: &nbsp; RecoderPro
 
 **💻 No Momento trabalhando com:**
- | Java ||Spring | React | 
+ Java |Spring | React 
 
 
-## O que eu tenho feito por aqui ...
+## O que eu tenho desenvolvido aqui ...
 <div align="center">
   <a href="https://github.com/joaomgsa">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaomgsa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
