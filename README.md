@@ -7,7 +7,8 @@
 ### Sou um Desenvolvedor Web FullStack no Rio de Janeiro - RJ.
 
 - 👨‍🎓  &nbsp; Engenharia de Produção pelo CEFET.
-- :computer: &nbsp; RecoderPro ; Neobiz
+- :computer: &nbsp; RecoderPro ; 
+- 🕴️&nbsp; Automação de Processos | Neobiz
 
 **💻 No Momento trabalhando com:**
  Java |Spring | React 
