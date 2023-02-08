@@ -11,7 +11,7 @@
 - 🕴️&nbsp; Automação de Processos | Neobiz
 
 **💻 No Momento trabalhando com:**
- Java |Spring | React 
+ Java |Spring | JavaScript
 
 
 ## O que eu tenho desenvolvido aqui ...
