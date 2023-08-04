@@ -8,8 +8,7 @@
 
 - 👨‍🎓  &nbsp; Engenharia de Produção pelo CEFET.
 - :computer: &nbsp; RecoderPro ; 
-- 🕴️&nbsp; Automação de Processos | Neobiz
-
+- 🕴️&nbsp; 
 **💻 No Momento trabalhando com:**
  Java |Spring | JavaScript
 
