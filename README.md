@@ -10,7 +10,7 @@
 - :computer: &nbsp; RecoderPro ; 
 - 🕴️&nbsp; 
 **💻 No Momento trabalhando com:**
- Java |Spring | JavaScript
+ Sistema de avaliação pedagógica
 
 
 ## O que eu tenho desenvolvido aqui ...
