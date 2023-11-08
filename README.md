@@ -10,7 +10,8 @@
 - :computer: &nbsp; RecoderPro ; 
 - 🕴️&nbsp; 
 **💻 No Momento trabalhando com:**
- Sistema de avaliação pedagógica
+ Smart Safe Brasil - Smart Safe Bank
+ Coletivo Aprendiz - Residência
 
 
 ## O que eu tenho desenvolvido aqui ...
