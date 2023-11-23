@@ -10,8 +10,8 @@
 - :computer: &nbsp; RecoderPro ; 
 - 🕴️&nbsp; 
 **💻 No Momento trabalhando com:**
- - Smart Safe Brasil - Smart Safe Bank
- - Coletivo Aprendiz - Residência
+  - Smart Safe Brasil - Smart Safe Bank
+  - Coletivo Aprendiz - Residência
 
 
 ## O que eu tenho desenvolvido aqui ...
