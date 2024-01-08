@@ -6,7 +6,7 @@
 
 ### Sou um Desenvolvedor Web 
 
-- 👨‍🎓  &nbsp; Engenharia de Produção pelo CEFET.
+- 👨‍🎓  &nbsp; Engenharia de Produção CEFET-RJ.
 - :computer: &nbsp; RecoderPro ; 
 - 🕴️&nbsp; 
 **💻 No Momento trabalhando com:**
