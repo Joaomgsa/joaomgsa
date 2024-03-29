@@ -10,7 +10,7 @@
 - :computer: &nbsp; RecoderPro ; 
 - 🕴️&nbsp; 
 **💻 No Momento trabalhando com:**
-  - Smart Safe Brasil - Smart Safe Bank
+  - Smart Safe Brasil - SSG BANK
   - Coletivo Aprendiz - Residência
 
 
