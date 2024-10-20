@@ -11,7 +11,7 @@
 - 🕴️&nbsp; 
 **💻 No Momento trabalhando com:**
   - Smart Safe Brasil - SSG BANK
-  - Coletivo Aprendiz - Residência
+  
 
 
 ## O que eu tenho desenvolvido aqui ...
